@@ -1,0 +1,8 @@
+O objetivo do Voouber é atender a demanda de passageiros que tem pouco tempo para chegar em seu destino e que estejam em uma
+distância menor ou igual a 10km.
+O carro será adaptado com 4 pequenas turbinas, que terão como combustível o hidrogênio, pensando em dimiuir os gases poluentes. 
+As turbinas ficarão localizadas no lugar das rodas, e terão acionamento pelo piloto através de uma alavanca que irá ligar as 
+turbinas que serão abastecidas por hidrogênio, para diminuir a poluição.
+O valor da viagem será calculado pelo próprio aplicativo Voouber, qe irá autorizar a viagm quando confirmar o pagamento via PIX,
+por ser um transporte aéreo, o valor é fechado de acordo com a distância.
+   
