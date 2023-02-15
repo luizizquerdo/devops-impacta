@@ -1,0 +1,3 @@
+req1 - para a viagem custar 10 dólares, não poderá ultrapassar os 10 kilometros.
+req2 - quantidade máxima de 4 passageiros por viagem, contando com o piloto.
+req3 - a viagem terá início após pagamento via pix para conta estipulada.
